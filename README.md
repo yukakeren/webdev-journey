@@ -4,8 +4,7 @@ I will be documenting my path to become a web developer without ai tools since I
 
 ## 📍 Plan
 I will be doing a project based learning to hopefully help me jumps faster. 
-1. Built a simple website
-3. Built a responsive website
+1. Built a responsive website with this [course](https://www.freecodecamp.org/learn/responsive-web-design-v9/)
 4. Built a studycase
 5. Built a portfolio
 
