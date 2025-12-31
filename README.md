@@ -5,6 +5,7 @@ I will be documenting my path to become a web developer without AI tools since I
 I will be doing a project based learning to hopefully help me jumps faster. 
 1. Build a responsive website with this [course](https://www.freecodecamp.org/learn/responsive-web-design-v9/)
 
+    Per-day, I will solve 50 task 😁
     <progress value="18" max="279"></progress> 15.5% HTML
     <progress value="0" max="16"></progress> 0% Computers
     <progress value="0" max="1191"></progress> 0% CSS
