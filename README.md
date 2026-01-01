@@ -7,7 +7,7 @@ I will be doing a project based learning to hopefully help me jumps faster.
 
     Per-day, I will solve around 50 task 😁
 
-    <progress value="60" max="279"></progress> 21.5% HTML
+    <progress value="65" max="279"></progress> 23% HTML
 
     <progress value="0" max="16"></progress> 0% Computers
     
@@ -103,3 +103,6 @@ It's pretty simple right? Hopefully so.
     **What is UTF-8 CHaracter Encoding**
     `<meta charset="UTF-8" />` in head section we could ensure how the characters is viewed.
 
+3. **Div vs Section**
+    Div: Have no semantic meaning, is used for CSS styling.
+    Section: A page will treat it as a section and have semantic meanings.
